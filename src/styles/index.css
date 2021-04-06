@@ -70,4 +70,10 @@ body .myGraph {
 body .myGraph :first-child {
   overflow: visible;
 }
+
+@media screen and (max-width: 880px) {
+  .content {
+    width: 100% !important;
+  }
+}
 /*# sourceMappingURL=index.css.map */
