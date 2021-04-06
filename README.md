@@ -1,4 +1,4 @@
-https://gogupaul123.github.io/graph-app/.
+https://my-graph-app.netlify.app/
 
 I started pretty slowly, wasting the first few hours trying to fetch the information from https://fakerql.stephix.uk/ simply because this was my first time working with a GraphQL API.
 
