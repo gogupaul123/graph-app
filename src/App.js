@@ -32,7 +32,7 @@ function App() {
       createdAt
     }
   }` }),
-})
+})  
   .then(data => data.json())
   //Then set the state to our data
   .then(res => updatePosts(res));
